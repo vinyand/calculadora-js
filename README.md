@@ -1,3 +1,3 @@
 ## Calculadora feita em bootstrap + JavaScript.
 
-<img src="calculadora">
+<img src="calculadora.jpeg">
